@@ -17,7 +17,7 @@
  
 🌱 I’m currently learning **Java, DBMS, Full stack development**
  
-📫 How to reach me: sakshit2004@gmail.com
+📫 How to reach me: shar0771@algonquinlive.com
 
 😄 Pronouns: he/him
  
