@@ -49,8 +49,6 @@
 <br/>
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshit2004&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sakshit sharma" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sakshit2004&show_icons=true&locale=en&theme=tokyonight" alt="sakshit sharma" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshit2004&&theme=tokyonight" alt="sakshit sharma" /></p>
