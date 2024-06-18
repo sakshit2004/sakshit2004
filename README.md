@@ -11,11 +11,6 @@
 
 <div align="center">
 
-
-
-🔭 I’m currently working on **My Portfolio Website**
- 
-🌱 I’m currently learning **Java, DBMS, Full stack development**
  
 📫 How to reach me: shar0771@algonquinlive.com
 
