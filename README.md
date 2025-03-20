@@ -16,8 +16,6 @@
 
 😄 Pronouns: he/him
  
-⚡ Fun fact **I can make a computer do exactly what i want, but when it comes to fixing everyday objects,my magical powers seem to malfunction mysteriously.**
-
  </div>
  
 <div align="center"> 
