@@ -13,8 +13,6 @@
 
  
 📫 How to reach me: sakshit2004@gmail.com
-
-😄 Pronouns: he/him
  
  </div>
  
